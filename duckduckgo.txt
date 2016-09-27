@@ -1,6 +1,6 @@
 == Info: Rebuilt URL to: http://www.duckduckgo.com/
-== Info:   Trying 54.229.105.203...
-== Info: Connected to www.duckduckgo.com (54.229.105.203) port 80 (#0)
+== Info:   Trying 176.34.155.20...
+== Info: Connected to www.duckduckgo.com (176.34.155.20) port 80 (#0)
 => Send header, 82 bytes (0x52)
 0000: 47 45 54 20 2f 20 48 54 54 50 2f 31 2e 31 0d 0a GET / HTTP/1.1..
 0010: 48 6f 73 74 3a 20 77 77 77 2e 64 75 63 6b 64 75 Host: www.duckdu
@@ -15,7 +15,7 @@
 0000: 53 65 72 76 65 72 3a 20 6e 67 69 6e 78 0d 0a    Server: nginx..
 <= Recv header, 37 bytes (0x25)
 0000: 44 61 74 65 3a 20 54 75 65 2c 20 32 37 20 53 65 Date: Tue, 27 Se
-0010: 70 20 32 30 31 36 20 31 33 3a 35 31 3a 34 32 20 p 2016 13:51:42 
+0010: 70 20 32 30 31 36 20 31 34 3a 33 37 3a 30 37 20 p 2016 14:37:07 
 0020: 47 4d 54 0d 0a                                  GMT..
 <= Recv header, 25 bytes (0x19)
 0000: 43 6f 6e 74 65 6e 74 2d 54 79 70 65 3a 20 74 65 Content-Type: te
@@ -32,8 +32,8 @@
 0020: 2f 0d 0a                                        /..
 <= Recv header, 40 bytes (0x28)
 0000: 45 78 70 69 72 65 73 3a 20 57 65 64 2c 20 32 37 Expires: Wed, 27
-0010: 20 53 65 70 20 32 30 31 37 20 31 33 3a 35 31 3a  Sep 2017 13:51:
-0020: 34 32 20 47 4d 54 0d 0a                         42 GMT..
+0010: 20 53 65 70 20 32 30 31 37 20 31 34 3a 33 37 3a  Sep 2017 14:37:
+0020: 30 37 20 47 4d 54 0d 0a                         07 GMT..
 <= Recv header, 33 bytes (0x21)
 0000: 43 61 63 68 65 2d 43 6f 6e 74 72 6f 6c 3a 20 6d Cache-Control: m
 0010: 61 78 2d 61 67 65 3d 33 31 35 33 36 30 30 30 0d ax-age=31536000.
