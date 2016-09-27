@@ -1,0 +1,56 @@
+== Info: Rebuilt URL to: http://www.duckduckgo.com/
+== Info:   Trying 54.229.105.203...
+== Info: Connected to www.duckduckgo.com (54.229.105.203) port 80 (#0)
+=> Send header, 82 bytes (0x52)
+0000: 47 45 54 20 2f 20 48 54 54 50 2f 31 2e 31 0d 0a GET / HTTP/1.1..
+0010: 48 6f 73 74 3a 20 77 77 77 2e 64 75 63 6b 64 75 Host: www.duckdu
+0020: 63 6b 67 6f 2e 63 6f 6d 0d 0a 55 73 65 72 2d 41 ckgo.com..User-A
+0030: 67 65 6e 74 3a 20 63 75 72 6c 2f 37 2e 34 39 2e gent: curl/7.49.
+0040: 30 0d 0a 41 63 63 65 70 74 3a 20 2a 2f 2a 0d 0a 0..Accept: */*..
+0050: 0d 0a                                           ..
+<= Recv header, 32 bytes (0x20)
+0000: 48 54 54 50 2f 31 2e 31 20 33 30 31 20 4d 6f 76 HTTP/1.1 301 Mov
+0010: 65 64 20 50 65 72 6d 61 6e 65 6e 74 6c 79 0d 0a ed Permanently..
+<= Recv header, 15 bytes (0xf)
+0000: 53 65 72 76 65 72 3a 20 6e 67 69 6e 78 0d 0a    Server: nginx..
+<= Recv header, 37 bytes (0x25)
+0000: 44 61 74 65 3a 20 54 75 65 2c 20 32 37 20 53 65 Date: Tue, 27 Se
+0010: 70 20 32 30 31 36 20 31 33 3a 35 31 3a 34 32 20 p 2016 13:51:42 
+0020: 47 4d 54 0d 0a                                  GMT..
+<= Recv header, 25 bytes (0x19)
+0000: 43 6f 6e 74 65 6e 74 2d 54 79 70 65 3a 20 74 65 Content-Type: te
+0010: 78 74 2f 68 74 6d 6c 0d 0a                      xt/html..
+<= Recv header, 21 bytes (0x15)
+0000: 43 6f 6e 74 65 6e 74 2d 4c 65 6e 67 74 68 3a 20 Content-Length: 
+0010: 31 37 38 0d 0a                                  178..
+<= Recv header, 24 bytes (0x18)
+0000: 43 6f 6e 6e 65 63 74 69 6f 6e 3a 20 6b 65 65 70 Connection: keep
+0010: 2d 61 6c 69 76 65 0d 0a                         -alive..
+<= Recv header, 35 bytes (0x23)
+0000: 4c 6f 63 61 74 69 6f 6e 3a 20 68 74 74 70 73 3a Location: https:
+0010: 2f 2f 64 75 63 6b 64 75 63 6b 67 6f 2e 63 6f 6d //duckduckgo.com
+0020: 2f 0d 0a                                        /..
+<= Recv header, 40 bytes (0x28)
+0000: 45 78 70 69 72 65 73 3a 20 57 65 64 2c 20 32 37 Expires: Wed, 27
+0010: 20 53 65 70 20 32 30 31 37 20 31 33 3a 35 31 3a  Sep 2017 13:51:
+0020: 34 32 20 47 4d 54 0d 0a                         42 GMT..
+<= Recv header, 33 bytes (0x21)
+0000: 43 61 63 68 65 2d 43 6f 6e 74 72 6f 6c 3a 20 6d Cache-Control: m
+0010: 61 78 2d 61 67 65 3d 33 31 35 33 36 30 30 30 0d ax-age=31536000.
+0020: 0a                                              .
+<= Recv header, 2 bytes (0x2)
+0000: 0d 0a                                           ..
+<= Recv data, 178 bytes (0xb2)
+0000: 3c 68 74 6d 6c 3e 0d 0a 3c 68 65 61 64 3e 3c 74 <html>..<head><t
+0010: 69 74 6c 65 3e 33 30 31 20 4d 6f 76 65 64 20 50 itle>301 Moved P
+0020: 65 72 6d 61 6e 65 6e 74 6c 79 3c 2f 74 69 74 6c ermanently</titl
+0030: 65 3e 3c 2f 68 65 61 64 3e 0d 0a 3c 62 6f 64 79 e></head>..<body
+0040: 20 62 67 63 6f 6c 6f 72 3d 22 77 68 69 74 65 22  bgcolor="white"
+0050: 3e 0d 0a 3c 63 65 6e 74 65 72 3e 3c 68 31 3e 33 >..<center><h1>3
+0060: 30 31 20 4d 6f 76 65 64 20 50 65 72 6d 61 6e 65 01 Moved Permane
+0070: 6e 74 6c 79 3c 2f 68 31 3e 3c 2f 63 65 6e 74 65 ntly</h1></cente
+0080: 72 3e 0d 0a 3c 68 72 3e 3c 63 65 6e 74 65 72 3e r>..<hr><center>
+0090: 6e 67 69 6e 78 3c 2f 63 65 6e 74 65 72 3e 0d 0a nginx</center>..
+00a0: 3c 2f 62 6f 64 79 3e 0d 0a 3c 2f 68 74 6d 6c 3e </body>..</html>
+00b0: 0d 0a                                           ..
+== Info: Connection #0 to host www.duckduckgo.com left intact
